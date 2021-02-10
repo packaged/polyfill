@@ -1,0 +1,14 @@
+{
+  "name": "packaged/polyfill",
+  "license": "MIT",
+  "require": {
+    "packaged/polyfill-ctype": "*",
+    "packaged/polyfill-mbstring": "*",
+    "packaged/polyfill-php71": "*",
+    "packaged/polyfill-php72": "*",
+    "packaged/polyfill-php73": "*",
+    "packaged/polyfill-php74": "*",
+    "packaged/polyfill-php80": "*",
+    "packaged/polyfill-php81": "*"
+  }
+}
