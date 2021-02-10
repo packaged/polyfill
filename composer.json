@@ -1,7 +1,7 @@
 {
   "name": "packaged/polyfill",
   "license": "MIT",
-  "require": {
+  "suggest": {
     "packaged/polyfill-ctype": "*",
     "packaged/polyfill-mbstring": "*",
     "packaged/polyfill-intl": "*",
